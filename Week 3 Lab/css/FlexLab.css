@@ -3,12 +3,14 @@
 html, body{
     background-color: #999999;
     background-image: url("../images/background.png");
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
     display: flex;
     justify-content: center;
 }
 
 #main-container{
-    width: 980px;
+    width: 970px;
     padding: 10px;
     border: 1px;
     background-color: #abafb1;
